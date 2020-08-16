@@ -1,2 +1,2 @@
 # React-Project
-![](images/React-JobList.PNG)
+![](images/React-JobList.png)
