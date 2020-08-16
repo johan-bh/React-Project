@@ -1,0 +1,62 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: "Roboto Mono" !important;
+	background: #0f0f0f !important;
+	color: #ffffff;
+}
+
+h1 {
+	padding-top: 50px;
+	font-size: 75px;
+	font-weight: bolder;
+}
+
+p {
+	font-size: 20px;
+	font-weight: bolder;
+}
+
+h1,h3,p,form,tr{
+	text-align: center;
+}
+h3 {
+	font-size: 20px;
+}
+h3 {
+	padding: 20px;
+}
+
+table {
+    margin-left:auto; 
+    margin-right:auto;
+    font-weight: bolder;
+    padding: 25px;
+  }
+
+form {
+	font-size: 15px;
+	font-weight: bolder;
+}
+
+th,tr {
+	padding: 40px;
+	font-size: 25px;
+}
+
+label {
+	padding: 20px;
+	font-weight: bolder;
+	font-size: 25px;
+}
+
+input{
+	font-size: 15px;
+	font-weight: bolder;
+}
+
+td {
+	padding: 15px;
+	font-size: 20px;
+	font-weight: lighter;
+}
